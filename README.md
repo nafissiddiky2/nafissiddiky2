@@ -3,7 +3,7 @@
 💫 About Me:                                                      
 🎓 Student at Manarat International University, Dhaka, Bangladesh  <br>
 ✨ Exploring technology and cybersecurity <br>
-📚 Currently learning Programming, Web Development, Linux, Networking, and Cybersecurity  <br>
+📚 Currently learning Programming, Web Development, Linux and Cybersecurity  <br>
 💻 Passionate about coding, problem-solving, and building real-world projects  <br>
 🚀 Exploring Python, JavaScript, Git/GitHub, and cybersecurity tools  <br>  
 
